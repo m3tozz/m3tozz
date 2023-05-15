@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-[![pling-store-logo](https://github.com/m3tozz/m3tozz/assets/79897762/1f64869e-ac96-41e3-93e5-21aea755ea70)](https://www.pling.com/u/m3tozz/products)
+⮩<a href="https://www.pling.com/u/m3tozz/products">Pling.com</a>|<a href="https://www.buymeacoffee.com/m3tozz/">Buymeacoffe.com</a>|<a href="https://www.instagram.com/metozz.exe/">Instagram.com</a>
