@@ -1,2 +1,2 @@
-### <img src="https://github.com/m3tozz/m3tozz/assets/79897762/360622fa-fe21-4987-b914-7810cb9f17b7" alt="chick" hspace="10"  align="left" /> Hi There
-⮩<a href="https://www.pling.com/u/m3tozz/products">Pling.com</a>|<a href="https://www.buymeacoffee.com/m3tozz/">Buymeacoffee.com</a>|<a href="https://www.instagram.com/metinzuhree/">Instagram.com</a>|<a href="https://kreosus.com/m3tozzch4rm">Donate Link (Turkish)
+### Hi There
+<img src="https://github.com/m3tozz/m3tozz/assets/79897762/360622fa-fe21-4987-b914-7810cb9f17b7" alt="chick" hspace="10"  align="right" />⮩<a href="https://www.pling.com/u/m3tozz/products">Pling.com</a>|<a href="https://www.buymeacoffee.com/m3tozz/">Buymeacoffee.com</a>|<a href="https://www.instagram.com/metinzuhree/">Instagram.com</a>|<a href="https://kreosus.com/m3tozzch4rm">Donate Link (Turkish)
