@@ -1,2 +1,5 @@
 ### <img src="https://hits.sh/github.com/m3tozz.svg" align="right" />Hi There
-<img src="https://github.com/m3tozz/m3tozz/assets/79897762/360622fa-fe21-4987-b914-7810cb9f17b7" align="left" /><a href="https://www.pling.com/u/m3tozz/products">Pling.com</a>|<a href="https://www.buymeacoffee.com/m3tozz/">Buymeacoffee.com</a>|<a href="https://www.instagram.com/metinzuhree/">Instagram.com</a>|<a href="https://kreosus.com/m3tozzch4rm">Donate Link (Turkish)
+
+[![Discord](https://img.shields.io/badge/discord-5865f2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1069900432941522994)
+[![YouTube](https://img.shields.io/badge/youtube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrc4YCiFbMZNEJVmnyV9PjQ)
+[![Github](https://img.shields.io/badge/github-171515.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/m3tozz)
