@@ -1,1 +1,1 @@
-<img src="https://cdn.discordapp.com/emojis/1117759461063413800.webp?size=28&animated=true">
+<img src="https://github.com/user-attachments/assets/afece31f-8b1a-4639-9416-085999afb2c3">
