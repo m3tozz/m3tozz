@@ -1,4 +1,5 @@
 <img src="https://cdn.discordapp.com/emojis/1117759461063413800.webp?size=28&animated=true">
+
 --------------------------------------------------------------------------
 
 [![Discord](https://img.shields.io/badge/discord-5865f2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1069900432941522994)
