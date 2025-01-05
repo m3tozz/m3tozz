@@ -1,1 +1,1 @@
-Welcome, My Friend!
+Keep It Simple!
