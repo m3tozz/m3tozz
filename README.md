@@ -1,7 +1,9 @@
 ```bash
-while noSuccess:
-    tryAgain()
+while (noSuccess)
+{
+    tryAgain();
 
-    if dead:
-        break
+    if (dead)
+        break;
+}
 ```
