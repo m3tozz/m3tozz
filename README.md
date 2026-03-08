@@ -1,1 +1,1 @@
-<i>“Peace begins with a smile.”</i> — Mother Teresa
+the bites... they hurt so much.
