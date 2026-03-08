@@ -1,1 +1,7 @@
-the bites... they hurt so much.
+```bash
+while (noSuccess){
+    tryAgain();
+
+    if (dead)
+        break;}
+```
